@@ -4,7 +4,7 @@ This is a booking room for traveller who can book their room and can also see wh
 # Tools Used:
 - HTML and CSS
 
-# Install dependebcies:
+# Install dependencies:
 - Must have the Live server extension
 
 # To run:
